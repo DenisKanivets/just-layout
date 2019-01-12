@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){$("#fullpage").fullpage({autoScrolling:!0,scrollHorizontally:!0,bigSectionsDestination:top,scrollBar:!0})});

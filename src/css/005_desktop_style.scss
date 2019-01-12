@@ -1,0 +1,363 @@
+@media screen and (min-width: 1024px) {
+  .first-block {
+
+    .opacity {
+
+
+      header {
+        padding-top: 40px;
+
+
+        .cool-logo {
+          width: 257px;
+          height: 81px;
+          padding-left: 50px;
+        }
+
+        .right-nav-bar {
+          padding-right: 25px;
+          padding-top: 20px;
+
+          &__phone {
+            padding-right: 50px;
+
+
+            &--img {
+              width: 41px;
+              height: 41px;
+            }
+
+            &--number {
+              font-size: 36px;
+              padding-left: 13px;
+            }
+          }
+
+          &__menu {
+            background-image: url("../img/menu-mobile-red@2x.png");
+            background-size: cover;
+            width: 39px;
+            height: 25px;
+          }
+        }
+      }
+
+      .main-content {
+        position: relative;
+
+        .main-text {
+          margin-top: 110px;
+          margin-left: 50px;
+          margin-bottom: 111px;
+
+          &__sed-ut {
+            font-size: 18px;
+          }
+
+          &__good-luck {
+            margin-top: 37px;
+            font-size: 64px;
+            width: 550px;
+          }
+        }
+
+        .main-img {
+          margin-top: 0;
+          left: 57%;
+          top: -60px;
+
+          img {
+            width: 289px;
+            height: 586px;
+          }
+        }
+
+        .under-main-text {
+          margin: 0 0 118px 50px;
+
+
+          &__info {
+
+            &--nemo {
+              font-size: 18px;
+            }
+
+            &--neque {
+              font-size: 30px;
+              width: 410px;
+            }
+          }
+
+          &__arrow {
+            width: 24px;
+            height: 29px;
+            margin-top: 46px;
+          }
+        }
+      }
+
+
+      .upload-file-more-info {
+
+        .red-block {
+
+          .upload-block {
+            flex-basis: 50%;
+
+            .upload-text {
+              font-size: 18px;
+              padding: 60px 0 22px;
+            }
+
+            .upload {
+              text-align: center;
+
+              &__drag-drop {
+                display: inline-block;
+                height: 90px;
+                width: 220px;
+                border: 1px solid white;
+                margin: 0 auto;
+                text-align: center;
+                cursor: pointer;
+
+                &--img {
+
+                }
+
+                &--text {
+                  font-family: Gotham, sans-serif;
+                  font-size: 18px;
+                  font-weight: 500;
+                  color: white;
+                  line-height: 90px;
+                  padding-left: 4px;
+                }
+              }
+
+              &__select-file {
+                height: 90px;
+                width: 220px;
+                margin-bottom: 62px;
+                display: inline-block;
+                position: relative;
+                right: 5px;
+
+                &--img {
+
+                }
+
+                &--text {
+                  font-size: 18px;
+                  line-height: 90px;
+                }
+              }
+            }
+          }
+
+          .more-info {
+            margin-top: 110px;
+            flex-basis: 50%;
+
+            &__part1 {
+              padding-bottom: 20px;
+
+
+              &--bono {
+                font-size: 24px;
+              }
+
+              .line {
+                width: 50px;
+              }
+
+              &--sed-ut {
+                font-size: 24px;
+
+              }
+
+            }
+
+            &__part2 {
+
+              &--rackham {
+                font-size: 24px;
+              }
+
+              .line {
+                width: 50px;
+              }
+
+              &--more {
+                font-size: 24px;
+
+              }
+            }
+
+          }
+        }
+
+
+        .arrow-scroll {
+          right: 25px;
+          top: -420px;
+
+          .circle {
+
+            &__red-arrow {
+              width: 37px;
+              height: 45px;
+              margin-top: 200px;
+            }
+          }
+
+
+          .scroll-discover {
+
+          }
+
+          .scroll-explore {
+            font-size: 16px;
+            opacity: 0.6;
+          }
+        }
+
+      }
+
+    }
+  }
+
+  .second-block {
+
+    .container {
+
+      .header {
+
+
+        .cool-logo {
+          width: 185px;
+          height: 58px;
+          margin-top: 43px;
+          margin-left: 79px;
+          margin-bottom: 138px;
+        }
+
+        .menu-black {
+          width: 39px;
+          height: 25px;
+          margin-right: 70px;
+          margin-top: 57px;
+        }
+      }
+
+      .content {
+
+
+        .red-block {
+          margin-top: 600px;
+        }
+
+        .number-first {
+
+
+          &__text {
+            top: 150px;
+          }
+
+          &__circles {
+            top: 290px;
+
+            &--red {
+
+            }
+
+            &--grey {
+
+            }
+          }
+        }
+
+        .text {
+
+
+
+          .quis {
+            margin-left: 30px;
+            margin-top: 118px;
+
+          }
+
+          .ut-enim {
+            margin-top: 37px;
+            margin-left: 30px;
+            margin-bottom: 48px;
+          }
+
+          .text-list {
+            margin-left: 15px;
+            margin-right: 85px;
+
+            &__elem {
+              margin-bottom: 20px;
+
+              &--number {
+                font-size: 18px;
+              }
+
+              &--description {
+                font-size: 18px;
+              }
+            }
+          }
+
+          .block-footer {
+            display: flex;
+
+
+            .finibus {
+              margin-top: 185px;
+              margin-left: 30px;
+              letter-spacing: 4px;
+            }
+
+            .bonorum {
+              margin-top: 185px;
+              margin-left: 10px;
+              margin-bottom: 72px;
+              display: flex;
+
+              &__text {
+                font-size: 16px;
+                letter-spacing: 4px;
+              }
+
+              &__line {
+                width: 50px;
+              }
+            }
+          }
+        }
+
+
+        .scroll-arrow {
+
+
+          &__discover {
+
+          }
+
+          &__explore {
+            font-size: 16px;
+          }
+
+          &__img {
+            width: 37px;
+            height: 45px;
+            margin: 120px auto;
+          }
+        }
+      }
+    }
+  }
+
+}
